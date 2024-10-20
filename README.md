@@ -9,7 +9,7 @@
 
 </div>
 
-<section>
+<section align="center">
   <h2>Tecnologías</h2>
   <ul>
     <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap</li>
