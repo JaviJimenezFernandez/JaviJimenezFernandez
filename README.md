@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👋 ¡Hola! Soy Javier Jiménez<h1>
-  <h3>Desarrollador web Junior | Full Stack<h3>
+  <h2>Desarrollador web Junior | Full Stack<h2>
   
   ![Banner](https://github.com/JaviJimenezFernandez/JaviJimenezFernandez/blob/main/BannerGithub.jpg)
   
