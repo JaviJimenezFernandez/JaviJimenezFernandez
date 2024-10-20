@@ -11,7 +11,7 @@
 </div>
 
 <section align="center">
-  <h2>Tecnologías</h2>
+  <h2>Tecnologías <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
   <article>
     <p><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap</p>
     <p><strong>Backend:</strong> C#, .NET, PHP, JAVA</p>
@@ -41,5 +41,5 @@
   <h2>📫 ¿Cómo contactarme?</h2>
   <p><strong>Linkedin:</strong> https://www.linkedin.com/in/javier-jiménez-fernández/</p>
   <!--<p><strong>Correo electrónico:</strong> jjf.digitalcolor@gmail.com</p>-->
-  <p>https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white jjf.digitalcolor@gmail.com</p>
+  <p>[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white] jjf.digitalcolor@gmail.com</p>
 </section>
