@@ -18,7 +18,6 @@
       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> |
       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> |
       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> |
-      
     </p>
     <p><strong>Backend:</strong> C#, .NET, PHP, JAVA</p>
     <p><strong>Base de datos:</strong> SQL (SQL Server, MySQL)</p>
