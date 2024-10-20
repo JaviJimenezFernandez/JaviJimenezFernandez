@@ -1,3 +1,4 @@
+<!-- Comentario aquí -->
 <div align="center">
   <h1>👋 ¡Hola! Soy Javier Jiménez</h1>
   <h3>Desarrollador Web Junior | Full Stack</h3>
@@ -39,5 +40,6 @@
 <section align="center">
   <h2>📫 ¿Cómo contactarme?</h2>
   <p><strong>Linkedin:</strong> https://www.linkedin.com/in/javier-jiménez-fernández/</p>
-  <p><strong>Correo electrónico:</strong> jjf.digitalcolor@gmail.com
+  <!--<p><strong>Correo electrónico:</strong> jjf.digitalcolor@gmail.com</p>-->
+  <p>https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white jjf.digitalcolor@gmail.com</p>
 </section>
