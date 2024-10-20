@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Javier Jiménez<h1>
-  <h3>Desarrollador web Junior | Full Stack<h3>
+  <h1>👋 ¡Hola! Soy Javier Jiménez</h1>h1>
+  <h3>Desarrollador web Junior | Full Stack</h3>h3>
 
   ![Banner](https://github.com/JaviJimenezFernandez/JaviJimenezFernandez/blob/main/BannerGithub.jpg)
 
@@ -19,4 +19,10 @@
     <p><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS, VSC, Agile</p>
     <p><strong>Diseño:</strong> Photoshop, Figma, Illustrator</p>
   </article>
+</section>
+
+<section>
+  <h2>📫 ¿Cómo contactarme?</h2>h2
+  <p>[LinkedIn](https://www.linkedin.com/in/javier-jiménez-fernández/)</p>
+  <p>[Correo electrónico](mailto:jjf.digitalcolor@gmail.com)
 </section>
