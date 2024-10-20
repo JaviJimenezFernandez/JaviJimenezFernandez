@@ -9,14 +9,14 @@
 
 </div>
 
-<section align="center">
-  <h2>Tecnologías</h2>
-  <ol style="list-style-type: none; padding: 0;">
+<section>
+  <h2 align="center">Tecnologías</h2>
+  <ul>
     <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap</li>
     <li><strong>Backend:</strong> C#, .NET, PHP, JAVA</li>
     <li><strong>Base de datos:</strong> SQL (SQL Server, MySQL)</li>
     <li><strong>Cloud:</strong> Azure (App Services, SQL, DevOps), CI/CD</li>
     <li><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS</li>
     <li><strong>Diseño:</strong> Photoshop, Figma, Illustrator</li>
-  </ol>
+  </ul>
 </section>
