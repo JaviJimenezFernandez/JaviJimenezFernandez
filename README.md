@@ -23,6 +23,6 @@
 
 <section align="center">
   <h2>📫 ¿Cómo contactarme?</h2>
-  <p>(https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin)(https://www.linkedin.com/in/javier-jiménez-fernández/)</p>
+  <p>[https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin](https://www.linkedin.com/in/javier-jiménez-fernández/)</p>
   <p>[Correo electrónico](mailto:jjf.digitalcolor@gmail.com)
 </section>
