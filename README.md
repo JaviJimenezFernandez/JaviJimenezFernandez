@@ -16,7 +16,7 @@
     <p><strong>Backend:</strong> C#, .NET, PHP, JAVA</p>
     <p><strong>Base de datos:</strong> SQL (SQL Server, MySQL)</p>
     <p><strong>Cloud:</strong> Azure (App Services, SQL, DevOps), CI/CD</p>
-    <p><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS</p>
+    <p><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS, VSC, Agile</p>
     <p><strong>Diseño:</strong> Photoshop, Figma, Illustrator</p>
   </article>
 </section>
