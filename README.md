@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### Desarrollador Web Junior | Full-Stack | REACT | C# | .NET | Azure
 
+Soy un desarrollador web con experiencia en front-end y back-end, apasionado por la creación de soluciones digitales innovadoras y funcionales.
+Tengo experiencia en tecnologías como React, .NET, C#, Azure y metodologías ágiles, con proyectos enfocados en arquitectura MVC y CI/CD.
 <!--
 **JaviJimenezFernandez/JaviJimenezFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
