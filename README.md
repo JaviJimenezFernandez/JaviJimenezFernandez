@@ -9,14 +9,14 @@
 
 </div>
 
-<section>
-  <h2 align="center">Tecnologías</h2>
-  <ul>
-    <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap</li>
-    <li><strong>Backend:</strong> C#, .NET, PHP, JAVA</li>
-    <li><strong>Base de datos:</strong> SQL (SQL Server, MySQL)</li>
-    <li><strong>Cloud:</strong> Azure (App Services, SQL, DevOps), CI/CD</li>
-    <li><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS</li>
-    <li><strong>Diseño:</strong> Photoshop, Figma, Illustrator</li>
-  </ul>
+<section align="center">
+  <h2>Tecnologías</h2>
+  <article>
+    <p><strong>Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap</p>
+    <p><strong>Backend:</strong> C#, .NET, PHP, JAVA</p>
+    <p><strong>Base de datos:</strong> SQL (SQL Server, MySQL)</p>
+    <p><strong>Cloud:</strong> Azure (App Services, SQL, DevOps), CI/CD</p>
+    <p><strong>Herramientas y frameworks:</strong> Visual Studio, Git, SSMS</p>
+    <p><strong>Diseño:</strong> Photoshop, Figma, Illustrator</p>
+  </article>
 </section>
