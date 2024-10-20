@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Javier Jiménez</h1>h1>
-  <h3>Desarrollador web Junior | Full Stack</h3>h3>
+  <h1>👋 ¡Hola! Soy Javier Jiménez</h1>
+  <h3>Desarrollador web Junior | Full Stack</h3>
 
   ![Banner](https://github.com/JaviJimenezFernandez/JaviJimenezFernandez/blob/main/BannerGithub.jpg)
 
@@ -23,6 +23,6 @@
 
 <section align="center">
   <h2>📫 ¿Cómo contactarme?</h2>
-  <p><strong>Linkedin:</strong>(https://www.linkedin.com/in/javier-jiménez-fernández/)</p>
-  <p><strong>Correo electrónico:</strong>(mailto:jjf.digitalcolor@gmail.com)
+  <p><strong>Linkedin:</strong> https://www.linkedin.com/in/javier-jiménez-fernández/</p>
+  <p><strong>Correo electrónico:</strong> jjf.digitalcolor@gmail.com
 </section>
